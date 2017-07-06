@@ -2,7 +2,7 @@
 该工程允许我们手动单独编译gn工具；
 
 ## 编译方式
-- 直接运行build.sh(依赖ninja)
+- 直接运行build.sh(依赖[ninja](https://github.com/ninja-build/ninja/releases))
 - 或者参考build_gn.sh从googlesource同步最新代码进行编译
 
 
